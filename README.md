@@ -50,7 +50,7 @@ Here are some of the highlights from my coding adventures:
 Feel free to connect with me via:
 
 - ✉️ [Email](mailto:enigumath@gmail.com)
-- 🕊️ [X](https://x.com/enigumath_)
+- 🕊️ [X](https://x.com/enigum4th)
 - 🌐 [Website](https://cat-v.org)
 
 ---
