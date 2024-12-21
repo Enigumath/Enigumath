@@ -7,12 +7,6 @@
 ## About Me
 I am a **self-taught developer** with a passion for all things **backend development** and **DevOps**. My journey started with curiosity and a terminal prompt, and here I am, crafting scripts, deploying servers, and exploring new programming paradigms. 💻
 
-### Technologies I Love Working With:
-- 🐍 **Python**: My go-to language for scripting and backend development.
-- 🛠️ **Bash**: Automating tasks, one script at a time.
-- ⚙️ **Rust**: For when I need performance and reliability.
-- 💻 **JavaScript** (with frameworks like **React**).
-
 ---
 
 ## Languages and Tools
