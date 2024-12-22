@@ -26,7 +26,7 @@ echo "From server deployments to backend magic, let's automate the universe!"
 -- Linux Toolkit --        |      -- Dev Arsenal --
 
 * Bash                     | * Python (my first love) 🐍
-* Vim                     | * Rust (for the brave ⚙️)
+* Vim                      | * Rust (for the brave ⚙️)
 * Coreutils                | * Django (dev liftoff)
 * GNU Sed & Awk            | * JS/TS & React ⚛️️
 ```
