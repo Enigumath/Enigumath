@@ -1,10 +1,3 @@
-# プロフィール - Welcome to My GitHub Profile
-
-  /\_/\  ( Hello World! )
- ( o.o )  > Let’s script something epic
- > ^ ^   
-
----
 
 ## About Me
 
